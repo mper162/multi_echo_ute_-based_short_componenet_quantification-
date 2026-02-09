@@ -36,6 +36,9 @@ Script:
 
 script_dixon_ute_siemens_final2 (Mathematica)
 
+but source and output in a seperate space. this might be a problem extracting masks. so use 
+fslcpgeom merged_ute_mag.nii.gz UTE_mag_original_0.nii after the ute_folder to convert generated outputs to the same space as input _UTE. Do it for every file.
+
 3. Fat signal removal
 
 The estimated fat signal is removed from the original UTE dataset.

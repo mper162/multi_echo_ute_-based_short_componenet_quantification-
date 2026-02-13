@@ -151,7 +151,7 @@ Single Excel file summarizing all muscles and regions
 
 Script:
 
-final_excel_mask_percentages
+final_excel_mask_percentages_final(there are two in the folder. latest one "is _final ") 
 
 9. Sanity check using synthetic 4D signal decay
 
